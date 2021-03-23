@@ -14,5 +14,5 @@ Second JavaScript Basic +/- Counter
 - JavaScript (All Counter Elements)
 
 ## Live Demo:
-> https://raw.githack.com/Andra10/Counter-2/main/JS%BASIC%COUNTER%2/index.html
+> https://raw.githack.com/Andra10/Counter-2/main/JSBASICCOUNTER2/index.html
 #### Or you can download the files in your local machine 
